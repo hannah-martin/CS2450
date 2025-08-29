@@ -4,7 +4,7 @@ name = input("What is your name? ")
 
 age = 1
 while age == 1:
-    guess = random.randrange(15, 30)
+    guess = random.randrange(15, 40)
     if (input(str(guess) + "? y/n: ") == 'y'):
         age = guess
     else:
