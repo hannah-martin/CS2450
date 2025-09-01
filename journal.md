@@ -1,0 +1,1 @@
+Date: 8.31.25 - Subject: Journal entries. Engineering journals are important for keeping track of progress. I will write in this at least once a week.
