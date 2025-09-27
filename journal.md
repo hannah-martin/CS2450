@@ -7,3 +7,6 @@ Date 9.13.25 - Subject: More Brainstorming. We aren't necessarily doing a great 
 Date 9.21.25 - Subject: Using git. I am struggling a little to get the hang of using branches. I am not used to working on things in git with a group and I'm having a hard time figuring out how everything works. Everything has such a specific procedure, and it frustrates me because I keep doing things wrong. I still haven't quite figured it out so I don't have any insight on how I can fix this problem right now.
 
 Date 9.22.25 - Subject: Group work. Our group is having a little contention today because there has been a lack of communication up until this point. To solve this problem I am going to actively work to be more communicative throughout the week, and try to find a time for all team members to meet outside of class weekly.
+
+Date 9.27.25 - Subject: Pivoting. Our group decided to pivot away from the dating app concept and towards a social media platform. I am against this idea because we've already created a detailed plan for our initial idea, and the reasoning for pivoting is weak. However, I am outnumbered in this opinion, so we are following through with the pivot. Even though this frustrated me, I am going to strive to have a positive attitude and complete this project to the best of my abilities.
+
