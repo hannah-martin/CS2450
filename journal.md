@@ -10,3 +10,4 @@ Date 9.22.25 - Subject: Group work. Our group is having a little contention toda
 
 Date 9.27.25 - Subject: Pivoting. Our group decided to pivot away from the dating app concept and towards a social media platform. I am against this idea because we've already created a detailed plan for our initial idea, and the reasoning for pivoting is weak. However, I am outnumbered in this opinion, so we are following through with the pivot. Even though this frustrated me, I am going to strive to have a positive attitude and complete this project to the best of my abilities.
 
+Date 10.5.25 - Subject: Friday meeting. We had a really productive meeting on Friday, and I think that us meeting once a week outside of class time has been very beneficial. We are able to comunicate our plans and work on things together, which is much more efficient than seperately doing work and talking about it in a group chat.
