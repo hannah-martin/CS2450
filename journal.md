@@ -13,3 +13,5 @@ Date 9.27.25 - Subject: Pivoting. Our group decided to pivot away from the datin
 Date 10.5.25 - Subject: Friday meeting. We had a really productive meeting on Friday, and I think that us meeting once a week outside of class time has been very beneficial. We are able to comunicate our plans and work on things together, which is much more efficient than seperately doing work and talking about it in a group chat.
 
 Date 10.12.25 - Subject: Pair programming. I really liked pair programming with Andrew. I think it helped us stay on task, and write the code in a more effective manner. 
+
+Date 11.2.25 - Subject: Progress. This week I made very little progress and that is my fault. I need to make an active effort this upcomming week to make as much progress as possible given that the semester is coming to a close.
