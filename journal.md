@@ -19,3 +19,5 @@ Date 11.2.25 - Subject: Progress. This week I made very little progress and that
 Date 11.9.25 - Subject: Personal additions. Now that we have made sure all of the basic functionality of the site is there, we have kind of started each working on something that we find interesting and fun to add to the platform. I am still having a hard time getting myself to actually make decent progress.
 
 Date 11.16.25 - Subject: Selenium tests. I am having a hard time getting my tests to pass in git hub actions. I think am going to have to ask for help with this one, I am not sure how to do this.
+
+Date 12.5.25 - Subject: Finishing up the project. We presented our project on monday and I am relatively happy with how it turned out. I ran into some issues when implementing bully the parrot, he only worked on the main page. When I tried to put him on other pages he was huge and not behaving at all how he was on the other pages. I decided that for the sake of this assignment it was not worth trying to figure that out. That being said he is working near flawless on the main page so I am content.
